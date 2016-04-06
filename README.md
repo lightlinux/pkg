@@ -42,10 +42,8 @@ Table of Contents:
 * [Additional resources](#resources)
 
 Linux/OSX:
-[<img src="https://travis-ci.org/freebsd/pkg.svg" />](https://travis-ci.org/freebsd/pkg)
+[<img src="https://travis-ci.org/lightlinux/pkg.svg" />](https://travis-ci.org/lightlinux/pkg)
 
-FreeBSD:
-[![Build Status](http://jenkins.mouf.net/view/auto/job/pkg/badge/icon)](http://jenkins.mouf.net/view/auto/job/pkg/)
 <a name="libpkg"></a>
 ### libpkg
 
