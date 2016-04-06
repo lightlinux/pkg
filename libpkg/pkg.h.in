@@ -77,9 +77,9 @@ extern "C" {
 #define OSMAJOR __NetBSD_Version__
 #endif
 
-#ifndef __DECONST
+//#ifndef __DECONST
 #define __DECONST(type, var)    ((type)(uintptr_t)(const void *)(var))
-#endif
+//#endif
 
 #ifndef NELEM
 #define NELEM(array)    (sizeof(array) / sizeof((array)[0]))
