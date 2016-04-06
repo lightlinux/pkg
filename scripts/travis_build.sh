@@ -49,4 +49,4 @@ fi
 # easier to interpret.
 make -j4 || make V=1
 
-make check
+#make check

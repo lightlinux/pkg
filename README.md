@@ -41,7 +41,7 @@ Table of Contents:
 * [Creating a package repository](#pkgcreate)
 * [Additional resources](#resources)
 
-Linux/OSX:
+Linux:
 [<img src="https://travis-ci.org/lightlinux/pkg.svg" />](https://travis-ci.org/lightlinux/pkg)
 
 <a name="libpkg"></a>
